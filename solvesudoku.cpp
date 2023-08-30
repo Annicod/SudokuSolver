@@ -55,14 +55,7 @@ void print(vector<vector<int>>& sdk){
     }
 }
 
-int main(){
-     
 
-
-
-
-    return 0;
-}
 
 
 
